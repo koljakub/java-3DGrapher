@@ -11,12 +11,12 @@ making various surface plots. GPU acceleration is implemented using Java Binding
 * UI widgets
 
 ## Requirements
-JDK 8 
-OpenGL 2+
+* JDK 8 
+* OpenGL 2+
 
 ## Dependencies
-JOGL 2.3.2+
-exp4j
+* JOGL 2.3.2+
+* exp4j
 
 ## Downloads
 https://sourceforge.net/projects/java-function-grapher/files/
