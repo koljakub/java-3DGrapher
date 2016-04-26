@@ -1,5 +1,5 @@
 # 3D Grapher
-3D Grapher is a software for plotting functions of two variables. It is a easy to use, GPU accelerated, tool for
+3D Grapher is a software for plotting functions of two variables. It is a easy-to-use, GPU accelerated, tool for
 making various surface plots. GPU acceleration is implemented using Java Bindings for OpenGL - JOGL.
 
 ## Features
